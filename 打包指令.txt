@@ -1,0 +1,1 @@
+pyinstaller -F main.py -i ICT.ico -p ICT_Testing_Mode.py -p ICT_test_logic.py -p ICT_syn_data.py -p ICT_RPA.py -p ICT_GUI.py -p ICT_GetData.py -p ICT_general_function.py -p ICT_Data_save.py

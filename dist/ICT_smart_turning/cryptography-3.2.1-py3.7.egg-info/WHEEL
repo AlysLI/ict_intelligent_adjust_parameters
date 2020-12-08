@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+Wheel-Version: 1.0
+Generator: bdist_wheel (0.35.1)
+Root-Is-Purelib: false
+Tag: cp37-cp37m-win32
+
+=======
+Wheel-Version: 1.0
+Generator: bdist_wheel (0.35.1)
+Root-Is-Purelib: false
+Tag: cp37-cp37m-win32
+
+>>>>>>> b836e0ccff4ea304c4967c9bd5daca4be6311525
